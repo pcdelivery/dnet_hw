@@ -161,6 +161,9 @@ namespace BinaryTreeApp
         }
     }
 
+    /// <summary>
+    /// Create and run Binary Tree Menu
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
@@ -190,7 +193,7 @@ namespace BinaryTreeApp
                         tree.RemoveNode(Convert.ToInt32(data));
                         break;
                     case 3:
-                        Console.WriteLine("Enter the data to search in tree:");
+                        Console.WriteLine("Enter the data to search:");
                         data = Console.ReadLine();
                         var temp = tree.SearchNode(Convert.ToInt32(data));
                         Console.WriteLine(temp != null ? "Found!" : "Not found!");

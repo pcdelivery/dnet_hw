@@ -5,7 +5,7 @@ namespace InsertionSortApp
     public static class Program
     {
         /// <summary>
-        /// Sort array
+        /// Sort integer array
         /// </summary>
         /// <param name="array"> Unsorted array to sort </param>
         /// <returns>
@@ -44,7 +44,7 @@ namespace InsertionSortApp
         }
 
         /// <summary>
-        /// Program's Main
+        /// Program's Main to demonstrate
         /// </summary>
         /// <param name="args"> Terminal args </param>
         public static void Main(string[] args)

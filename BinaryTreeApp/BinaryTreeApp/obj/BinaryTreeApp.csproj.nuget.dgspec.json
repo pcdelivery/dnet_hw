@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dan\\source\\repos\\BinaryTreeApp\\BinaryTreeApp\\BinaryTreeApp.csproj": {}
+    "D:\\Users\\dan\\Desktop\\nf\\BinaryTreeApp\\BinaryTreeApp\\BinaryTreeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dan\\source\\repos\\BinaryTreeApp\\BinaryTreeApp\\BinaryTreeApp.csproj": {
+    "D:\\Users\\dan\\Desktop\\nf\\BinaryTreeApp\\BinaryTreeApp\\BinaryTreeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dan\\source\\repos\\BinaryTreeApp\\BinaryTreeApp\\BinaryTreeApp.csproj",
+        "projectUniqueName": "D:\\Users\\dan\\Desktop\\nf\\BinaryTreeApp\\BinaryTreeApp\\BinaryTreeApp.csproj",
         "projectName": "BinaryTreeApp",
-        "projectPath": "C:\\Users\\dan\\source\\repos\\BinaryTreeApp\\BinaryTreeApp\\BinaryTreeApp.csproj",
+        "projectPath": "D:\\Users\\dan\\Desktop\\nf\\BinaryTreeApp\\BinaryTreeApp\\BinaryTreeApp.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dan\\source\\repos\\BinaryTreeApp\\BinaryTreeApp\\obj\\",
+        "outputPath": "D:\\Users\\dan\\Desktop\\nf\\BinaryTreeApp\\BinaryTreeApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

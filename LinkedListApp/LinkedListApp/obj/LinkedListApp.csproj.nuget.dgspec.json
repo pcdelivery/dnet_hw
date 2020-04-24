@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dan\\source\\repos\\LinkedListApp\\LinkedListApp\\LinkedListApp.csproj": {}
+    "D:\\Users\\dan\\Desktop\\nf\\LinkedListApp\\LinkedListApp\\LinkedListApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dan\\source\\repos\\LinkedListApp\\LinkedListApp\\LinkedListApp.csproj": {
+    "D:\\Users\\dan\\Desktop\\nf\\LinkedListApp\\LinkedListApp\\LinkedListApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dan\\source\\repos\\LinkedListApp\\LinkedListApp\\LinkedListApp.csproj",
+        "projectUniqueName": "D:\\Users\\dan\\Desktop\\nf\\LinkedListApp\\LinkedListApp\\LinkedListApp.csproj",
         "projectName": "LinkedListApp",
-        "projectPath": "C:\\Users\\dan\\source\\repos\\LinkedListApp\\LinkedListApp\\LinkedListApp.csproj",
+        "projectPath": "D:\\Users\\dan\\Desktop\\nf\\LinkedListApp\\LinkedListApp\\LinkedListApp.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dan\\source\\repos\\LinkedListApp\\LinkedListApp\\obj\\",
+        "outputPath": "D:\\Users\\dan\\Desktop\\nf\\LinkedListApp\\LinkedListApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

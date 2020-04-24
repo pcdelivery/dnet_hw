@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dan\\source\\repos\\InsertionSortApp\\InsertionSortApp\\InsertionSortApp.csproj": {}
+    "D:\\Users\\dan\\Desktop\\nf\\InsertionSortApp\\InsertionSortApp\\InsertionSortApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dan\\source\\repos\\InsertionSortApp\\InsertionSortApp\\InsertionSortApp.csproj": {
+    "D:\\Users\\dan\\Desktop\\nf\\InsertionSortApp\\InsertionSortApp\\InsertionSortApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dan\\source\\repos\\InsertionSortApp\\InsertionSortApp\\InsertionSortApp.csproj",
+        "projectUniqueName": "D:\\Users\\dan\\Desktop\\nf\\InsertionSortApp\\InsertionSortApp\\InsertionSortApp.csproj",
         "projectName": "InsertionSortApp",
-        "projectPath": "C:\\Users\\dan\\source\\repos\\InsertionSortApp\\InsertionSortApp\\InsertionSortApp.csproj",
+        "projectPath": "D:\\Users\\dan\\Desktop\\nf\\InsertionSortApp\\InsertionSortApp\\InsertionSortApp.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dan\\source\\repos\\InsertionSortApp\\InsertionSortApp\\obj\\",
+        "outputPath": "D:\\Users\\dan\\Desktop\\nf\\InsertionSortApp\\InsertionSortApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
